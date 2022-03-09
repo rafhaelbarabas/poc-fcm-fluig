@@ -1,0 +1,7 @@
+yarn run v1.22.17
+$ react-native run-android --verbose
+info Running jetifier to migrate libraries to AndroidX. You can disable it using "--no-jetifier" flag.
+Jetifier found 917 file(s) to forward-jetify. Using 8 workers...
+info JS server already running.
+info Installing the app...
+debug Running command "cd android && ./gradlew app:installDebug -PreactNativeDevServerPort=8081"

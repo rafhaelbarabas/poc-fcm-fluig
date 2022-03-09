@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "188998570026",
+    "project_id": "poc-android-firebase",
+    "storage_bucket": "poc-android-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188998570026:android:ecee3a0e5038effe3a3353",
+        "android_client_info": {
+          "package_name": "com.pocfcmfluig"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188998570026-f10qvb6u17iksiobe8mmqci7nd9vn4tr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pocfcmfluig",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "188998570026-1jcp3q6e7i87ruj0d8ssac3iut9bf64h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXoCrdpXHvdxoAndgowoKU-v3Nai1xhLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188998570026-1jcp3q6e7i87ruj0d8ssac3iut9bf64h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
